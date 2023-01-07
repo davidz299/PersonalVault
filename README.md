@@ -1,5 +1,4 @@
 # PersonalVault
-Exciting projects made with passion
 
 www.thepersonalvaults.com
 
